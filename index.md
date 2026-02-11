@@ -11,7 +11,9 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **Duration:** 9 weeks 
 - **Time commitment:** ~20–30 hours/week
 - **Location:** CSUF
-- **Cohort:** 20 HS/20 CSUF ECE Undergrads
+- **Cohort:** 
+    - 20 High School Students
+    - 20 CSUF ECE Undergraduate Students
 
 ## Contact
 - **Email:** [jfaller@fullerton.edu](mailto:jfaller@fullerton.edu)
