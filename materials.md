@@ -48,8 +48,6 @@ The **same OER materials** are used across both groups, with different depth, to
 
 **OER Repo**: [https://github.com/jfaller-csuf/csuf-ssp-oer](https://github.com/jfaller-csuf/csuf-ssp-oer)
 
-**Verilog AI-Tutor Code Repo**: [https://github.com/jfaller-csuf/csuf-ssp-ai](https://github.com/jfaller-csuf/csuf-ssp-ai)
-
 ---
 
 ## Lectures
