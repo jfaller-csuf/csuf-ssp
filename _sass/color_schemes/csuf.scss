@@ -1,0 +1,35 @@
+// CSUF-inspired colors
+$blue-000: #00274C; // Titan Blue
+$blue-100: #0B3C5D;
+$blue-200: #1F5A8A;
+
+$orange-000: #F37021; // Titan Orange
+$orange-100: #FF8C42;
+
+$body-background-color: #ffffff;
+$sidebar-color: $blue-000;
+$search-background-color: #f8f9fa;
+
+$link-color: $orange-000;
+$btn-primary-color: $orange-000;
+
+$nav-child-link-color: #e6e6e6;
+$nav-link-color: #ffffff;
+$nav-link-hover-color: $orange-000;
+
+$base-button-color: $orange-000;
+
+// Fix sidebar title + header text contrast
+// Force site title color (sidebar top-left)
+.site-title.lh-tight,
+.site-title.lh-tight a,
+.site-title.lh-tight:visited,
+.site-title.lh-tight a:visited {
+  color: #ffffff !important;
+}
+
+// Hover state
+.site-title.lh-tight:hover,
+.site-title.lh-tight a:hover {
+  color: #F37021 !important;
+}

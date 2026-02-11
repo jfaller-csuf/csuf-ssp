@@ -1,0 +1,7 @@
+title: CSUF SSP
+description: CSUF Semiconductor Summer Program (SSP)
+remote_theme: just-the-docs/just-the-docs
+color_scheme: csuf
+
+plugins:
+  - jekyll-remote-theme
