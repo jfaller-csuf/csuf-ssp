@@ -10,7 +10,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **When:** Summer 2026
 - **Duration:** 9 weeks 
 - **Time commitment:** ~20–30 hours/week
-- **Location:** CSUF
+- **Location:** Virtual/CSUF Campus
 - **Cohort:** 
     - 20 High School Students
     - 20 CSUF ECE Undergraduate Students
