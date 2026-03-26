@@ -8,7 +8,7 @@ title: Schedule
 
 ## Theme: “How a Program Becomes Hardware”
 
-## Weekly Schedule
+## Tentative Weekly Schedule
 
 | Week | High School (HS) Students                                                                                                                               | CSUF Undergraduate Students                                                                              |
 | ---: | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ title: Schedule
 |    5 | • State machines on paper  <br>• Instruction sequencing  <br>• How systems change over time                                                             | • FSM implementation in Verilog  <br>• Control logic design  <br>• Testbenches and debugging             |
 |    6 | • Program tracing (step-by-step execution)  <br>• Connecting system components                                                                          | • Integrate datapath + control  <br>• Execute simple programs                                            |
 |    7 | • Manual test cases  <br>• Identifying errors in logic                                                                                                  | • Debugging processor behavior  <br>• Verification strategies                                            |
-|    8 | • Big-picture review of chips  <br>• Industry applications and careers  <br>• Presentation preparation                                                  | • Synthesis (area, timing)  <br>• Design tradeoffs  <br>• Final report preparation                       |
+|    8 | • Big-picture review of chips  <br>• Industry applications and careers  <br>• Presentation preparation                                                  | • Synthesis (area, timing)  <br>• Design tradeoffs  <br>• Presentation preparation   <br>• Send designs for fabrication                    |
 |    9 | • Joint presentations (system explanation)  <br>• Reflection and discussion                                                                             | • Joint presentations (technical depth)  <br>• Design results and lessons learned                        |
 
 ---
