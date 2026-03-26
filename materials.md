@@ -29,5 +29,3 @@ Students progress from:
   → to designing systems
   → to building a simple system in Verilog (CSUF)
   → to explaining system behavior (HS)
-
----

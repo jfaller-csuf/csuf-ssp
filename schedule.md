@@ -21,5 +21,3 @@ title: Schedule
 |    7 | • Manual test cases  <br>• Identifying errors in logic                                                                                                  | • Debugging processor behavior  <br>• Verification strategies                                            |
 |    8 | • Big-picture review of chips  <br>• Industry applications and careers  <br>• Presentation preparation                                                  | • Synthesis (area, timing)  <br>• Design tradeoffs  <br>• Presentation preparation   <br>• Send designs for fabrication                    |
 |    9 | • Joint presentations (system explanation)  <br>• Reflection and discussion                                                                             | • Joint presentations (technical depth)  <br>• Design results and lessons learned                        |
-
----
