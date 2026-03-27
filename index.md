@@ -17,3 +17,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 
 ## Contact
 - **Email:** [jfaller@fullerton.edu](mailto:jfaller@fullerton.edu)
+
+## Course Platform
+
+Google Classroom will be used for announcements, assignments, and communication: https://classroom.google.com/c/ODU3MzgwMDk3MTQ3
