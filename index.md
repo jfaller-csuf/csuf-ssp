@@ -8,7 +8,7 @@ title: Home
 
 A 9-week summer experience in semiconductors, chip design, and career readiness for CSUF students and high school
 
-# **Program Theme**
+## **Program Theme**
 
 **“How a Program Becomes Hardware”**
 
