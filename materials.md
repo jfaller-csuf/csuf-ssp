@@ -22,7 +22,7 @@ Both groups use the **same core materials**, but differ in depth, tools, and del
 
 Google Classroom will be used for announcements, assignments, and communication:
 
-https://classroom.google.com/c/ODU3MzgwMDk3MTQ3
+[https://classroom.google.com/c/ODU3MzgwMDk3MTQ](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3)
 
 ---
 

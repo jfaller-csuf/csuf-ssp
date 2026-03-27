@@ -20,4 +20,6 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 
 ## Course Platform
 
-Google Classroom will be used for announcements, assignments, and communication: https://classroom.google.com/c/ODU3MzgwMDk3MTQ3
+Google Classroom will be used for announcements, assignments, and communication:
+
+[https://classroom.google.com/c/ODU3MzgwMDk3MTQ](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3)
