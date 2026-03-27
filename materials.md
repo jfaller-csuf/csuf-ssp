@@ -4,7 +4,7 @@ title: Materials
 
 ---
 
-# Materials
+# **Materials**
 
 All OER materials are available at: [https://github.com/jfaller-csuf/csuf-ssp-oer](https://github.com/jfaller-csuf/csuf-ssp-oer)
 
@@ -17,7 +17,7 @@ The materials follow a **layered learning model**:
 
 Both groups use the **same core materials**, but differ in depth, tools, and deliverables.
 
-# Program Theme
+# **Program Theme**
 
 **“How a Program Becomes Hardware”**
 
