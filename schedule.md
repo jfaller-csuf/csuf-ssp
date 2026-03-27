@@ -4,13 +4,7 @@ title: Schedule
 
 ---
 
-# **Weekly Schedule (Tentative)**
-
-## Theme: “How a Program Becomes Hardware”
-
----
-
-## Tentative Weekly Schedule
+# Weekly Schedule (Tentative)
 
 | Week | High School (HS) Students                                                                                                                               | CSUF Undergraduate Students                                                                              |
 | ---: | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |

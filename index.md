@@ -1,5 +1,7 @@
 ---
+
 title: Home
+
 ---
 
 # **CSUF Semiconductor Summer Program (SSP)**
