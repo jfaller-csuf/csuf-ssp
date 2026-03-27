@@ -8,6 +8,16 @@ title: Schedule
 
 ## Theme: “How a Program Becomes Hardware”
 
+---
+
+## Course Platform
+
+Google Classroom will be used for announcements, assignments, and communication:
+
+https://classroom.google.com/c/ODU3MzgwMDk3MTQ3
+
+---
+
 ## Tentative Weekly Schedule
 
 | Week | High School (HS) Students                                                                                                                               | CSUF Undergraduate Students                                                                              |
