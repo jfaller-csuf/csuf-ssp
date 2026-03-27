@@ -18,13 +18,6 @@ The materials follow a **layered learning model**:
 Both groups use the **same core materials**, but differ in depth, tools, and deliverables.
 
 ---
-## Course Platform
-
-Google Classroom will be used for announcements, assignments, and communication:
-
-[https://classroom.google.com/c/ODU3MzgwMDk3MTQ](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3)
-
----
 
 ## Program Theme
 
