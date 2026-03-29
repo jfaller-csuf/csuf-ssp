@@ -21,7 +21,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
     - [Google Classroom](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3) will be used for announcements, lectures, worksheets, and communication
 - **Locations:** 
     - CSUF Students: Campus/Virtual - Room (TBD)/Zoom
-    - HS Students: Virtual - Zoom
+    - HS STudents: Virtual - Zoom
     
 ## Contact
 - **Email:** [jfaller@fullerton.edu](mailto:jfaller@fullerton.edu)
