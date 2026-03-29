@@ -12,8 +12,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **When:** Summer 2026
 - **Duration:** 9 weeks 
 - **Time Commitment:** 
-    - ~10 hours/week (CSUF)
-    - ~5 hours/week (HS)
+    - ~5-10 hours/week
 - **Cohort:** 
     - 20 HS Students
     - 20 CSUF Students
@@ -22,8 +21,8 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **Digital Learning Platform:**
     - [Google Classroom](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3) will be used for announcements, lectures, worksheets, and communication
 - **Locations:** 
-    - CSUF Campus (CSUF) - Room TBD
-    - Virtual (HS) - Zoom/Async
-
+    - CSUF Campus (CSUF) - Room (TBD)
+    - Virtual (HS) - Zoom
+    
 ## Contact
 - **Email:** [jfaller@fullerton.edu](mailto:jfaller@fullerton.edu)
