@@ -1,19 +1,104 @@
+# Weekly Structure
+
+The SSP follows a consistent weekly schedule to ensure steady progress, clear expectations, and timely feedback.
+
+## Monday (Anchor Day)
+
+* **Joint Lecture (High School (HS) + Undergraduate (UG) Students)** Introduction of core concepts and big-picture ideas
+* **UG Deep Dive Lecture (UG-focused; optional for HS)** More technical content for undergraduate students 
+    * UG - In-Person/HS - Zoom
+
+* **Assignments Released**
+    * Worksheets or Project milestone
+    * Starter code/templates (if applicable)
+
+## Tuesday–Wednesday (Work Phase)
+
+* Independent work on assignments (remote)
+* Optional office hours
+* Q&A via Google Classroom
+
+## Thursday (Submission Deadline)
+
+* Assignments due
+    * Exact Date & Times will be on the Google Classroom
+
+## Friday (Review + Feedback)
+
+* Guided review session
+* Focus on:
+  * Common mistakes
+  * Key concepts
+  * Example solutions
+  * Connections to next week
+
 ---
 
-title: Schedule
+## Weekly Workload Expectations
+
+Estimated total commitment: **5–10 hours per week**
+* Lectures: 1.5–2 hours
+* Worksheets / Project: 3–6 hours
+* Optional office hours / review: 0–2 hours
 
 ---
 
-# **Weekly Schedule (*Tentative*)**
+## Assignment Structure
 
-| Week | High School (HS) Students | CSUF Undergraduate Students |
-| ---: | ------------------------ | --------------------------- |
-| 1 | • What a chip is and what it does  <br>• Everyday examples of chips  <br>• Inputs, outputs, and simple rules  <br>• Reflection: “Where do I see chips?” | • Semiconductor overview  <br>• Digital vs. analog chips  <br>• Overview of the semiconductor ecosystem |
-| 2 | • “If–then” logic in real systems  <br>• Block diagrams of systems  <br>• Conceptual chip design flow | • CMOS basics  <br>• Design → synthesis → layout → fabrication  <br>• Intro to simulation workflows |
-| 3 | • Step-by-step execution of simple programs  <br>• Instruction flow diagrams  <br>• Concept of registers and operations  <br>• *Each instruction corresponds to a hardware action* | • Datapath overview (ALU, registers, PC)  <br>• Instruction formats  <br>• System-level processor design |
-| 4 | • Logic flow using diagrams  <br>• Understanding operations (add, subtract, logic)  <br>• *Operations represent what hardware is built to do* | • Verilog syntax and modules  <br>• ALU implementation  <br>• Simulation and waveform analysis  <br>• *Simulation = testing mindset*  <br>• Intro to testbenches as automated tests |
-| 5 | • State machines on paper  <br>• Instruction sequencing  <br>• How systems change over time  <br>• *State machines show how hardware follows a program* | • FSM implementation in Verilog  <br>• Control logic design  <br>• Testbenches and debugging  <br>• Test coverage and edge cases  <br>• Intro to Python for automation (basic scripting, CSV, plotting) |
-| 6 | • Program tracing (step-by-step execution)  <br>• Connecting system components  <br>• *Tracing a program = simulating hardware cycle-by-cycle* | • Integrate datapath + control  <br>• Execute simple programs  <br>• Log outputs and results  <br>• Export results (text/CSV)  <br>• Use Python to parse and visualize results |
-| 7 | • Manual test cases  <br>• Identifying errors in logic  <br>• *Debugging means finding where hardware behavior goes wrong* | • Debugging processor behavior  <br>• Verification strategies  <br>• Automated test generation (Python)  <br>• Batch testing (multiple test cases)  <br>• Plot results and analyze failures |
-| 8 | • Big-picture review of chips  <br>• Industry applications and careers  <br>• *Programs run because hardware is designed to execute them*  <br>• Presentation preparation | • Synthesis (area, timing)  <br>• Design tradeoffs  <br>• Data-driven conclusions (plots, metrics)  <br>• Presentation preparation (include results and debugging insights)  <br>• Send designs for fabrication |
-| 9 | • Joint presentations (system explanation)  <br>• Reflection and discussion  <br>• *Explain how a program is executed by hardware* | • Joint presentations (technical depth)  <br>• Present validation methodology and results  <br>• Design results and lessons learned |
+Each week includes structured assignments to support different levels of learning.
+
+## Worksheet A (Core Concepts)
+
+* Required for all students
+* Focus on fundamental understanding
+* Conceptual and guided problems
+
+## Worksheet B (Applied Work)
+
+* Required for UG students
+* Encouraged for HS students
+* Application of concepts to structured problems
+
+## Worksheet C (Advanced) *or* Project
+
+* Deeper challenge problems or
+* Weekly project milestone
+
+---
+
+# Feedback Process
+
+* Assignments are reviewed by Student Assistants (SAs)
+* Feedback focuses on:
+  * Conceptual understanding
+  * Logical reasoning
+  * Common misconceptions
+* Feedback is returned before Friday sessions
+
+---
+
+# Weekly Check-In
+
+Midweek (Wednesday), students may be asked to complete a short check-in:
+* What concepts are unclear?
+* Progress on assignments
+
+---
+
+# UG Project Milestones
+
+UG students will work toward a cumulative design project with weekly milestones:
+
+* Week 4: ALU implementation
+* Week 5: FSM and control logic
+* Week 6: Datapath integration
+* Week 7: Debugging and verification
+* Week 8: Optimization and analysis
+* Week 9: Final presentation
+
+---
+
+# Notes
+
+* HS students are encouraged to attend UG lectures and to do UG projects if interested in deeper technical content
+* Google Classroom will be the primary platform for all communication, materials, and submissions
