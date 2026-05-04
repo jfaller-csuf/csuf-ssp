@@ -10,7 +10,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 
 ## Key details
 - **When:** Summer 2026
-- **Duration:** 9 weeks 
+- **Duration:** 9 weeks (June 1st to July 31st)
 - **Time Commitment:** ~5-10 hours/week
 - **Cohort:** 
     - 20 HS Students
