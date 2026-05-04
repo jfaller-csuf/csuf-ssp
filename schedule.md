@@ -22,6 +22,8 @@ The SSP follows a consistent weekly schedule to ensure steady progress, clear ex
 
 * Assignments due
     * Exact Date & Times will be on the Google Classroom
+* Optional office hours
+* Q&A via Google Classroom
 
 ## Friday (Review + Feedback)
 
@@ -31,6 +33,7 @@ The SSP follows a consistent weekly schedule to ensure steady progress, clear ex
   * Key concepts
   * Example solutions
   * Connections to next week
+  * UG - In-Person/HS - Zoom
 
 ---
 
