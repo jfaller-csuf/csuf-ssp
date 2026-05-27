@@ -6,7 +6,6 @@ The SSP follows a consistent weekly schedule to ensure steady progress, clear ex
 
 * **Joint Lecture (High School (HS) + Undergraduate (UG) Students)** Introduction of core concepts and big-picture ideas
 * **UG Deep Dive Lecture (UG-focused; optional for HS)** More technical content for undergraduate students 
-    * UG - In-Person/HS - Zoom
 
 * **Assignments Released**
     * Worksheets or Project milestone
