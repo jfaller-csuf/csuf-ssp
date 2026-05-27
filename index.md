@@ -20,7 +20,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **Google Classroom:**
     - [Google Classroom](https://classroom.google.com/c/ODU3MzgwMDk3MTQ3) will be used for announcements, lectures, worksheets, and communication
 - **Locations:** 
-    - CSUF Students: In-Person Lecture (E-302), Open Lab (E-421)
+    - CSUF Students: Virtual - Zoom
     - HS Students: Virtual - Zoom
     - Office Hours: Virtual - Zoom
     
