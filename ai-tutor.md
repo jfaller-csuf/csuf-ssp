@@ -1,4 +1,4 @@
-# AI Tutor
+# Tutor (AI-Tutor)
 
 An AI-powered programming tutor developed for the **Summer Scholars Program (SSP)** to provide guided, interactive assistance while students work on programming labs.
 
