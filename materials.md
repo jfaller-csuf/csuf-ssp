@@ -4,9 +4,7 @@ title: OER Materials
 
 # OER Materials
 
-All Open Educational Resources (OER) developed for the Summer Scholars Program are available at:
-
-**https://github.com/jfaller-csuf/csuf-ssp-oer**
+All Open Educational Resources (OER) developed for the Summer Scholars Program are available at: [https://github.com/jfaller-csuf/csuf-ssp-oer](https://github.com/jfaller-csuf/csuf-ssp-oer)
 
 ## Overview
 
@@ -27,9 +25,7 @@ The repository includes materials such as:
 
 ## Topics
 
-The full list of SSP topics is available here:
-
-**https://jfaller-csuf.github.io/csuf-ssp/topics.html**
+The full list of SSP topics is available here: [https://jfaller-csuf.github.io/csuf-ssp/topics.html](https://jfaller-csuf.github.io/csuf-ssp/topics.html)
 
 ## Purpose
 

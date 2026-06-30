@@ -19,9 +19,7 @@ The tutor automatically receives the student's current code workspace, enabling 
 
 ## Access the AI Tutor
 
-The AI Tutor is available online at:
-
-**https://ai-tutor-ssp-web.vercel.app/**
+The AI Tutor is available online at: [https://ai-tutor-ssp-web.vercel.app/](https://ai-tutor-ssp-web.vercel.app/)
 
 ## Intended Audience
 
