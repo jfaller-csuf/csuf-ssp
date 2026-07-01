@@ -127,15 +127,11 @@ All curriculum materials are openly available so other instructors, schools, and
 ## Gallery
 
 <div class="card-grid">
-
   <div class="card">
     <img src="./images/zoom-screenshot-062926.png" alt="Lecture">
     <div class="card-body">
       <h3>Video Lectures</h3>
-      <p>
-        Weekly live Zoom lectures are recorded and published on YouTube so
-        students can review concepts anytime.
-      </p>
+      <p> Weekly live Zoom lectures are recorded and published on YouTube so students can review concepts anytime. </p>
     </div>
   </div>
 
@@ -143,60 +139,32 @@ All curriculum materials are openly available so other instructors, schools, and
     <img src="./images/ai-tutor.png" alt="AI Tutor">
     <div class="card-body">
       <h3>AI Tutor</h3>
-      <p>
-        A custom AI tutor provides hints, debugging guidance, and conceptual
-        explanations without giving away complete solutions.
-      </p>
+      <p> A custom AI tutor provides hints, debugging guidance, and conceptual explanations without giving away complete solutions. </p>
     </div>
   </div>
 
   <div class="card">
-  <img src="./images/nexys-a7.png" alt="Nexys A7 FPGA Board">
-  <div class="card-body">
-    <h3>Nexys A7 FPGA Board</h3>
-    <p>
-      CSUF undergraduate students use the Digilent Nexys A7, a full-featured
-      Xilinx Artix-7 FPGA development board that supports advanced digital
-      logic, finite state machine, and processor design projects.
-    </p>
+    <img src="./images/nexys-a7.png" alt="Nexys A7 FPGA Board">
+    <div class="card-body">
+      <h3>Nexys A7 FPGA Board</h3>
+      <p> CSUF undergraduate students use the Digilent Nexys A7, a full-featured Xilinx Artix-7 FPGA development board that supports advanced digital logic, finite state machine, and processor design projects. </p>
+    </div>
   </div>
 
-</div>
-
-<div class="card">
-  <img src="./images/cmod-s7.png" alt="Cmod S7">
-  <div class="card-body">
-    <h3>Cmod S7</h3>
-    <p>
-      High school students may complete laboratory activities using the
-      Digilent Cmod S7, a compact breadboardable Spartan-7 FPGA module that
-      provides an affordable platform for learning digital design at home.
-    </p>
+  <div class="card">
+    <img src="./images/fsm-example.png" alt="Student FPGA Project">
+    <div class="card-body">
+      <h3>Student FPGA Projects</h3>
+      <p> Throughout the program, students design, implement, and test FPGA-based systems that reinforce concepts from lectures and laboratories while developing practical engineering and debugging skills. </p>
+    </div>
   </div>
 
-</div>
-<div class="card">
-  <img src="./images/tang-nano-9k.png" alt="Tang Nano 9K">
-  <div class="card-body">
-    <h3>Tang Nano 9K</h3>
-    <p>
-      As an alternative hardware option, the Tang Nano 9K offers a low-cost
-      FPGA development platform featuring a Gowin FPGA, built-in USB
-      programming, and support for the majority of SSP laboratory exercises.
-    </p>
+  <div class="card">
+    <img src="./images/tiny-tapeout.png" alt="Tiny Tapeout ASIC Fabrication">
+    <div class="card-body">
+      <h3>Tiny Tapeout ASIC Design</h3>
+      <p> As a capstone experience, students design a digital circuit for the <a href="https://tinytapeout.com/" target="_blank">Tiny Tapeout</a> open-source ASIC program. This
+      introduces students to the complete chip design workflow, from Verilog and simulation to physical fabrication on a shared integrated circuit. </p>
+    </div>
   </div>
-
-</div>
-
-<div class="card">
-  <img src="./images/fsm-example.png" alt="Student FPGA Project">
-  <div class="card-body">
-    <h3>Student FPGA Projects</h3>
-    <p>
-      Throughout the program, students design, implement, and test FPGA-based
-      systems that reinforce concepts from lectures and laboratories while
-      developing practical engineering and debugging skills.
-    </p>
-  </div>
-
 </div>
