@@ -74,11 +74,11 @@ SSP includes a custom AI Tutor developed specifically for the program.
 
 Unlike traditional chatbots that simply provide complete solutions, the SSP AI Tutor emphasizes learning by:
 
-* asking guiding questions
-* providing hints
-* helping students debug code
-* explaining concepts
-* encouraging problem-solving
+* Asking guiding questions
+* Providing hints
+* Helping students debug code
+* Explaining concepts
+* Encouraging problem-solving
 
 The tutor is integrated with the laboratory environment so students can receive context-aware assistance while completing activities.
 
@@ -86,16 +86,18 @@ The tutor is integrated with the laboratory environment so students can receive 
 
 ## Project-Based Learning
 
-Students apply what they learn through progressively larger FPGA projects, including:
+Students build their digital design skills through a sequence of progressively more challenging projects, including:
 
-* combinational logic
-* sequential logic
-* finite state machines
-* arithmetic circuits
-* simple processors
-* capstone FPGA projects
+* Combinational logic
+* Sequential logic
+* Finite State Machines (FSMs)
+* Arithmetic circuits
+* Simple processors
+* FPGA-based system integration
 
-Projects emphasize engineering design, testing, debugging, and documentation.
+Throughout the program, students apply engineering best practices for design, simulation, testing, debugging, and documentation.
+
+As a culminating experience, students use the knowledge and skills developed throughout the program to design a digital circuit for fabrication through the [Tiny Tapeout](https://tinytapeout.com/) open-source ASIC program, providing exposure to the complete hardware design flow from RTL design to silicon.
 
 ---
 
@@ -103,12 +105,12 @@ Projects emphasize engineering design, testing, debugging, and documentation.
 
 Beyond technical skills, SSP introduces students to the broader semiconductor ecosystem through discussions of:
 
-* semiconductor manufacturing
+* Semiconductor manufacturing
 * ASIC and FPGA design
-* embedded systems
-* computer architecture
+* Embedded systems
+* Computer architecture
 * AI hardware
-* industry career pathways
+* Industry career pathways
 
 Students finish the program with practical experience using industry-relevant design tools and hardware.
 
@@ -121,8 +123,6 @@ One goal of SSP is to make high-quality semiconductor education widely accessibl
 All curriculum materials are openly available so other instructors, schools, and outreach programs can build upon the work.
 
 ---
-
-## Gallery
 
 ## Gallery
 
