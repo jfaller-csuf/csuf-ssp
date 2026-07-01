@@ -33,3 +33,48 @@ $base-button-color: $orange-000;
 .site-title.lh-tight a:hover {
   color: #F37021 !important;
 }
+
+/* ===========================
+   Program Highlight Cards
+   =========================== */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 24px;
+  margin: 2rem 0;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(0,0,0,.12);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0,0,0,.18);
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 1rem 1.25rem;
+}
+
+.card-body h3 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+.card-body p {
+  margin: 0;
+  line-height: 1.5;
+}

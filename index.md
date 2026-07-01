@@ -29,7 +29,7 @@ A 9-week summer experience in semiconductors, chip design, and career readiness 
 - **Open Educational Resources (OER)**
     - Lecture materials, laboratory exercises, worksheets, instructor resources, and example code are available on the [OER Materials](https://jfaller-csuf.github.io/csuf-ssp/materials.html) page.
 - **AI Tutor**
-    - The browser-based [AI Tutor](https://jfaller-csuf.github.io/csuf-ssp/ai-tutor.html) provides guided programming assistance, concept explanations, debugging help, and context-aware support during laboratory activities.
+    - The browser-based [AI Tutor](https://ai-tutor-ssp-web.vercel.app/) provides guided programming assistance, concept explanations, debugging help, and context-aware support during laboratory activities.
 
 ## Contact
 
